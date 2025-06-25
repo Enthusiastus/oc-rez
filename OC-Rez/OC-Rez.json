@@ -1,0 +1,12 @@
+{
+  "Author": "Enthusiastus",
+  "Name": "OC-Rez",
+  "Punchline": "Plugin to help you rez people in occult crescent",
+  "Description": "Open UI with /ocrez",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "occult",
+    "crescent",
+    "revive"
+  ]
+}

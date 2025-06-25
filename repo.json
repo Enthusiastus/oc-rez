@@ -1,0 +1,22 @@
+[
+  {
+    "Author": "Enthusiastus",
+    "Name": "Occult Crescent Rez",
+    "InternalName": "OC-Rez",
+    "Description": "Set dead people around you as focus target",
+    "AssemblyVersion": "0.0.2",
+    "TestingAssemblyVersion": "0.0.2",
+    "RepoUrl": "https://github.com/Enthusiastus/oc-rez",
+    "IconUrl": "https://github.com/Enthusiastus/oc-rez/raw/main/icon.png",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 12,
+    "TestingDalamudApiLevel": 12,
+    "Tags": [
+      "hunt",
+      "vnavmesh"
+    ],
+    "DownloadLinkInstall": "https://github.com/Enthusiastus/oc-rez/releases/download/v0.1.13/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Enthusiastus/oc-rez/releases/download/v0.1.13/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Enthusiastus/oc-rez/releases/download/v0.1.13/latest.zip"
+  }
+]
